@@ -1,0 +1,1 @@
+## Deep Learning Project to detect events and predict effects of those events in stock market data
