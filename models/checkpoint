@@ -1,0 +1,2 @@
+model_checkpoint_path: "my1d_convolution_model"
+all_model_checkpoint_paths: "my1d_convolution_model"
