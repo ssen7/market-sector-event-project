@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/Charishma/Desktop/sess graph/my_model_final.ckpt"
+all_model_checkpoint_paths: "C:/Users/Charishma/Desktop/sess graph/my_model_final.ckpt"
